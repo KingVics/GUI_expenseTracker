@@ -21,13 +21,13 @@ This project is a simple Java-based expense tracker designed to help users monit
 2. Compile the project:
 
    ```bash
-   javac -d out Main.java ExpenseTrackerApp.java model\*.java service\*.java ui\*.java
+   javac Main.java
    ```
 
 3. Run the app:
 
    ```bash
-   java -cp out Main
+   java Main
    ```
 
 4. Use the menu options:
